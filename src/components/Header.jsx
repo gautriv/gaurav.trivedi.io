@@ -72,7 +72,7 @@ const Header = () => {
           href="https://beingtechnicalwriter.com"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
-          Blogs
+          Blog
         </a>
         <Button 
           target="_blank" 

@@ -48,8 +48,8 @@ import {
     },
     {
       id: "3",
-      title: "Blogs",
-      url: "#blogs",
+      title: "Blog",
+      url: "#blog",
       onlyMobile: true,
     },
     {
