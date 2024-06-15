@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gaurav.trivedi.io/static/css/main.54309dbb.css",
-    "main.js": "/gaurav.trivedi.io/static/js/main.1be02972.js",
+    "main.css": "/gaurav.trivedi.io/static/css/main.96b73539.css",
+    "main.js": "/gaurav.trivedi.io/static/js/main.98ca4c29.js",
     "index.html": "/gaurav.trivedi.io/index.html",
-    "main.54309dbb.css.map": "/gaurav.trivedi.io/static/css/main.54309dbb.css.map",
-    "main.1be02972.js.map": "/gaurav.trivedi.io/static/js/main.1be02972.js.map"
+    "main.96b73539.css.map": "/gaurav.trivedi.io/static/css/main.96b73539.css.map",
+    "main.98ca4c29.js.map": "/gaurav.trivedi.io/static/js/main.98ca4c29.js.map"
   },
   "entrypoints": [
-    "static/css/main.54309dbb.css",
-    "static/js/main.1be02972.js"
+    "static/css/main.96b73539.css",
+    "static/js/main.98ca4c29.js"
   ]
 }
