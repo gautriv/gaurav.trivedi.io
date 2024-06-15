@@ -1,20 +1,30 @@
-import React from 'react';
-import Header from './components/Header.jsx';
-import Hero from './components/Hero.jsx';
-import About from './components/About.jsx';
-import Projects from './components/Projects.jsx';
-import Contact from './components/Contact.jsx';
+import ButtonGradient from './assets/svg/ButtonGradient'
+import Header from './components/Header';
+import Hero from './components/Hero';
+import About from './components/About';
+import Services from './components/Services';
+import Projects from './components/Projects';
+import Footer from './components/Footer';
 
-function App() {
+const App = () => {
+
   return (
-    <div className="App">
-      <Header />
-      <Hero />
-      <About />
-      <Projects />
-      <Contact />
-    </div>
-  );
-}
+    <>
 
-export default App;
+    <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
+
+     <Header />
+     <Hero />
+     <About />
+     <Services />
+     <Projects />
+     <Footer />
+
+    </div>
+
+    <ButtonGradient />
+    </>
+  );
+};
+
+export default App

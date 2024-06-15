@@ -27,14 +27,21 @@ import heroBackground from "./hero/hero-background.jpg";
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
-import bootstrap from "./collaboration/bootstrap.png";
-import framemaker from "./collaboration/framemaker.png";
-import jekyll from "./collaboration/jekyll.png";
-import linux from "./collaboration/linux.png";
-import python from "./collaboration/python.png";
-import visualstudiocode from "./collaboration/visualstudiocode.png";
+import discord from "./collaboration/discord.png";
+import figma from "./collaboration/figma.png";
+import framer from "./collaboration/framer.png";
+import notion from "./collaboration/notion.png";
+import photoshop from "./collaboration/photoshop.png";
+import protopie from "./collaboration/protopie.png";
+import raindrop from "./collaboration/raindrop.png";
+import slack from "./collaboration/slack.png";
 import htmlcsslogo from "./collaboration/htmlcsslogo.png";
 import javascriptlogo from "./collaboration/javascriptlogo.png";
+import reactlogo from "./collaboration/reactlogo.png";
+import nodelogo from "./collaboration/nodelogo.png";
+import mongodblogo from "./collaboration/mongodblogo.png";
+import azurelogo from "./collaboration/azurelogo.png";
+import cpplogo from "./collaboration/cpplogo.png"; 
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -112,15 +119,21 @@ export {
   heroBackground,
   curve1,
   curve2,
-  github,
-  framemaker,
-  visualstudiocode,
-  bootstrap,
-  jekyll,
-  linux,
-  python,
+  discord,
+  figma,
+  framer,
+  notion,
+  photoshop,
+  protopie,
+  raindrop,
+  slack,
   htmlcsslogo,
   javascriptlogo,
+  reactlogo,
+  nodelogo,
+  mongodblogo,
+  azurelogo,
+  cpplogo,
   service1,
   service2,
   service3,
@@ -155,6 +168,7 @@ export {
   telegram,
   twitter,
   linkedin,
+  github,
   gmail,
   geeksforgeeks,
   scaler,
