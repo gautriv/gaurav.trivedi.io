@@ -69,14 +69,14 @@ const Header = () => {
 
         <a
           target="_blank"
-          href="https://docs.google.com/document/d/11ad1-8VKnOZK9Uenul1RpPmSWXG0HrTb/edit?usp=drive_link&ouid=109639383277679490731&rtpof=true&sd=true"
+          href="https://beingtechnicalwriter.com"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
           Blogs
         </a>
         <Button 
           target="_blank" 
-          className="hidden lg:flex" href="https://drive.google.com/file/d/1J6DsNigPBCtfwr74mZEwfXmHPWxienmh/view?usp=sharing">
+          className="hidden lg:flex" href="https://drive.google.com/file/d/1PxbOG0PteFUrneMHyi9AGpfW101qPl9o/view?usp=sharing">
           Resume
         </Button>
 

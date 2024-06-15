@@ -102,13 +102,13 @@ import {
   ];
   
   export const collabText =
-    "My job is to develop your website or create technical content so that it is functional and user-friendly. I created Technical Content for many famous brand companies.";
+    "I am the bridge between complex code and clear communication, a technical writer fluent in the language of programmers and users alike. I weave intricate algorithms into accessible narratives, transforming technical jargon into engaging, understandable stories that empower and inspire. My role is to turn the dense forest of code into a navigable path, guiding users with precision and creativity through the ever-evolving landscape of technology.";
   
   export const collabContent = [
     {
       id: "0",
       title: "Learn About Me",
-      text: "I'm Software Developer and Technical Writer from Kota, Rajasthan, India, working at Scaler as Technical Writer. I enjoy turning complex problems into simple, solutions.",
+      text: "Enter my universe, where words unravel tech mysteries. More than a Technical Writer, I'm your guide through uncharted code realms.",
     },
   ];
   
@@ -174,16 +174,16 @@ import {
   export const services = [
     {
       id: "0",
-      title: "Technical Writing",
-      text: "Clear, concise content tailored to your audience's needs. Enhance communication with expert documentation.",
+      title: "Technical writing",
+      text: "Craft top-tier software documentation, templates, user guides, and manuals to demystify complex systems.",
       backgroundUrl: "./src/assets/benefits/card-1.svg",
       iconUrl: benefitIcon1,
       imageUrl: benefitImage2,
     },
     {
       id: "1",
-      title: "Web Development",
-      text: "Customized websites built with precision, functionality, and user experience in mind. Elevate your online presence.",
+      title: "Documentation site development",
+      text: "Tailor documentation sites for enhanced clarity, improved functionality, and an optimal user experience.",
       backgroundUrl: "./src/assets/benefits/card-2.svg",
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
@@ -191,11 +191,12 @@ import {
     },
     {
       id: "2",
-      title: "Community Building",
-      text: "Foster connections and engagement through strategic initiatives and inclusive platforms. Cultivate thriving online communities.",
+      title: "Community building",
+      text: "Create connections and drive engagement through strategic initiatives and inclusive platforms. Build and nurture thriving online communities.",
       backgroundUrl: "./src/assets/benefits/card-3.svg",
       iconUrl: benefitIcon3,
       imageUrl: benefitImage2,
+      light: true,
     },
   ];
   
@@ -204,36 +205,24 @@ import {
       id: "0",
       title: "LinkedIn",
       iconUrl: linkedin,
-      url: "https://www.linkedin.com/in/bhartik021/",
+      url: "https://www.linkedin.com/in/gauravtrivedi88/",
     },
     {
       id: "1",
       title: "GitHub",
       iconUrl: github,
-      url: "https://github.com/bhartik021",
+      url: "https://github.com/gautriv",
     },
     {
       id: "2",
       title: "Twitter",
       iconUrl: twitter,
-      url: "https://twitter.com/bhartik021",
-    },
-    {
-      id: "3",
-      title: "Instagram",
-      iconUrl: instagram,
-      url: "https://www.instagram.com/bhartik021/",
+      url: "https://twitter.com/beingtechwriter",
     },
     {
       id: "4",
       title: "Gmail",
       iconUrl: gmail,
-      url: "mailto:bhartik021@gmail.com",
-    },
-    {
-      id: "5",
-      title: "Telegram",
-      iconUrl: telegram,
-      url: "https://t.me/kumari_bharti",
+      url: "mailto:trivedi.gaurav30@gmail.com",
     },
   ];
