@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header className="bg-gray-800 p-4 text-white flex justify-between items-center">
-      <h1 className="text-3xl">Gaurav Trivedi</h1>
+      <h1 className="text-3xl">Gaurav's Portfolio</h1>
       <nav>
         <ul className="flex space-x-4">
           <li><a href="#about" className="hover:underline">About</a></li>

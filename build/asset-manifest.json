@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gaurav.trivedi.io/static/css/main.54309dbb.css",
+    "main.js": "/gaurav.trivedi.io/static/js/main.1be02972.js",
+    "index.html": "/gaurav.trivedi.io/index.html",
+    "main.54309dbb.css.map": "/gaurav.trivedi.io/static/css/main.54309dbb.css.map",
+    "main.1be02972.js.map": "/gaurav.trivedi.io/static/js/main.1be02972.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54309dbb.css",
+    "static/js/main.1be02972.js"
+  ]
+}
