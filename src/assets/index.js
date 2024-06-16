@@ -1,5 +1,6 @@
 import bharti from "./bharti.svg";
 import bhartiIcon from "./bharti-favicon-icon.svg";
+import unlockpdf from "./unlockpdf.png";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
@@ -27,21 +28,14 @@ import heroBackground from "./hero/hero-background.jpg";
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
-import discord from "./collaboration/discord.png";
-import figma from "./collaboration/figma.png";
-import framer from "./collaboration/framer.png";
-import notion from "./collaboration/notion.png";
-import photoshop from "./collaboration/photoshop.png";
-import protopie from "./collaboration/protopie.png";
-import raindrop from "./collaboration/raindrop.png";
-import slack from "./collaboration/slack.png";
+import bootstrap from "./collaboration/bootstrap.png";
+import framemaker from "./collaboration/framemaker.png";
+import jekyll from "./collaboration/jekyll.png";
+import linux from "./collaboration/linux.png";
+import python from "./collaboration/python.png";
+import visualstudiocode from "./collaboration/visualstudiocode.png";
 import htmlcsslogo from "./collaboration/htmlcsslogo.png";
 import javascriptlogo from "./collaboration/javascriptlogo.png";
-import reactlogo from "./collaboration/reactlogo.png";
-import nodelogo from "./collaboration/nodelogo.png";
-import mongodblogo from "./collaboration/mongodblogo.png";
-import azurelogo from "./collaboration/azurelogo.png";
-import cpplogo from "./collaboration/cpplogo.png"; 
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -94,6 +88,7 @@ import proelevate from "./proelevate.svg";
 export {
   bharti,
   bhartiIcon,
+  unlockpdf,
   check,
   check2,
   loading1,
@@ -120,13 +115,13 @@ export {
   curve1,
   curve2,
   discord,
-  figma,
-  framer,
-  notion,
-  photoshop,
-  protopie,
-  raindrop,
-  slack,
+  github,
+  framemaker,
+  visualstudiocode,
+  bootstrap,
+  jekyll,
+  linux,
+  python,
   htmlcsslogo,
   javascriptlogo,
   reactlogo,
@@ -168,7 +163,6 @@ export {
   telegram,
   twitter,
   linkedin,
-  github,
   gmail,
   geeksforgeeks,
   scaler,
