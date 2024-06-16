@@ -1,4 +1,3 @@
-import bharti from "./bharti.svg";
 import bhartiIcon from "./bharti-favicon-icon.svg";
 import unlockpdf from "./unlockpdf.png";
 import check from "./check.svg";
@@ -86,7 +85,6 @@ import peppercontent from "./peppercontent.svg";
 import proelevate from "./proelevate.svg";
 
 export {
-  bharti,
   bhartiIcon,
   unlockpdf,
   check,
