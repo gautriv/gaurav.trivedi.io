@@ -12,10 +12,7 @@ import {
     python,
     framemaker,
     project1,
-    project2,
-    project3,
     project4,
-    telegram,
     twitter,
     linkedin,
     github,
@@ -25,7 +22,6 @@ import {
     tutorialspoint,
     peppercontent,
     proelevate,
-    bhartiIcon,
     unlockpdf,
   } from "../assets";
 

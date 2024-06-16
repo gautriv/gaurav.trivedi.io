@@ -1,4 +1,4 @@
-import bhartiIcon from "./bharti-favicon-icon.svg";
+import gaurav from "./gaurav.svg";
 import unlockpdf from "./unlockpdf.png";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
@@ -85,7 +85,7 @@ import peppercontent from "./peppercontent.svg";
 import proelevate from "./proelevate.svg";
 
 export {
-  bhartiIcon,
+  gaurav,
   unlockpdf,
   check,
   check2,
