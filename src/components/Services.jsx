@@ -12,7 +12,7 @@ const Services = () => {
       <div className="container relative z-2">
         <Heading 
           className="md:max-w-md lg:max-w-2xl text-center mx-auto" 
-          title="What do I do?" 
+          title="What do I do" 
         />
 
         <div className="flex flex-wrap justify-center gap-6 mb-10">
