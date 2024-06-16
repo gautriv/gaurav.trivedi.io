@@ -34,13 +34,13 @@ const Services = () => {
                     height={48}
                     alt={item.title}
                   />
-                  <Button
+                  <a
                     href={item.exploreMoreUrl}
                     className="ml-auto font-code text-xs font-bold uppercase tracking-wider"
                     white
                   >
                     Explore more
-                  </Button>
+                  </a>
                   <Arrow />
                 </div>
               </div>
