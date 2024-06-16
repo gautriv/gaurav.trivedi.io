@@ -1,11 +1,11 @@
 import { useLocation } from "react-router-dom";
 import { disablePageScroll, enablePageScroll } from "scroll-lock";
-
 import { navigation } from "../constants";
 import Button from "./Button";
 import MenuSvg from "../assets/svg/MenuSvg";
 import { HamburgerMenu } from "./design/Header";
 import { useState } from "react";
+import { gaurav } from "../assets";
 
 const Header = () => {
   const pathname = useLocation();
@@ -30,15 +30,16 @@ const Header = () => {
 
   return (
     <div
-      className={`fixed top-0 left-0 w-full z-50  border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm ${
+      className={`fixed top-0 left-0 w-full z-50 border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm ${
         openNavigation ? "bg-n-8" : "bg-n-8/90 backdrop-blur-sm"
       }`}
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
-      <a className="block w-[12rem] xl:mr-8" href="#hero">
-        <span className="text-2xl font-bold text-white">Gaurav Trivedi</span>
-      </a>
-
+        <a className="flex items-center xl:mr-8" href="#hero">
+          <img src={gaurav} alt="Gaurav" className="w-8 h-8 mr-2" /> {/* Add the image */}
+          <span className="text-2xl font-bold text-white">Gaurav Trivedi</span>
+        </a>
+        
         <nav
           className={`${
             openNavigation ? "flex" : "hidden"
@@ -75,7 +76,9 @@ const Header = () => {
         </a>
         <Button 
           target="_blank" 
-          className="hidden lg:flex" href="https://drive.google.com/file/d/1PxbOG0PteFUrneMHyi9AGpfW101qPl9o/view?usp=sharing">
+          className="hidden lg:flex" 
+          href="https://drive.google.com/file/d/1PxbOG0PteFUrneMHyi9AGpfW101qPl9o/view?usp=sharing"
+        >
           Resume
         </Button>
 
