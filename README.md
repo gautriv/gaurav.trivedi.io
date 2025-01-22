@@ -1,5 +1,3 @@
-Here's the proper README.md file based on the content you provided:
-
 ## Gaurav Trivedi | Portfolio
 
 This is the source code for my personal portfolio website built using React, Tailwind CSS, and Vite.
