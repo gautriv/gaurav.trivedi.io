@@ -77,7 +77,7 @@ const Header = () => {
         <Button 
           target="_blank" 
           className="hidden lg:flex" 
-          href="https://drive.google.com/file/d/1PxbOG0PteFUrneMHyi9AGpfW101qPl9o/view?usp=sharing"
+          href="https://drive.google.com/file/d/1z337ogXELaie4Fjo7xhrHQNAE3xfCiOC/view?usp=drive_link"
         >
           Resume
         </Button>
